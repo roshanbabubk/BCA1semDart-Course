@@ -1,20 +1,23 @@
-## BCA1SEM 
 # GIT
-  1. git config --global user.name "your name"
-  2. git config --global user.email "your email" 
-  
-  # GITHUB
- 1. git init
- 2. git add . or * or filename
- 3. git commit -m "your message here"
- 4. git branch -M main
- 5. git remote add origin https://www.github.com/username/repo.git
- 6. git push -u origin main 
-    # GITHUB --> NEXT TIME
-    1. git add .or "or filename"
-    2. git commit -m "your message here"
-    3. git push
+1) git config --global user.name "username"
+2) git config --global user.email "email"
 
- # BCA1SEM DART PROGRAMMING
+# GITHUB  -->First Time
+1. git init
+2. git add . or * or filename
+3. git checkout branchname 
+4. git branch -M main  
+5. git commit -m  "your message here"  
+6. git remote add origin https://github.com/RashikTimalsina/BCA1stSem_Dart.git
+7. git push -u origin main
 
- ## INTRODUCTION
+# GITHUB  -->Next Time
+1) git add. or * or filename
+2) git commit -m "your message"
+3) git push 
+
+
+# BCA1stSem_Dart Programming
+
+## Introduction
+github.com
