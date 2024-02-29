@@ -8,7 +8,7 @@
 3. git checkout branchname 
 4. git branch -M main  
 5. git commit -m  "your message here"  
-6. git remote add origin https://github.com/RashikTimalsina/BCA1stSem_Dart.git
+6. git remote add origin https://github.com/roshanbabubk/BCA1semDart-Course.git
 7. git push -u origin main
 
 # GITHUB  -->Next Time
